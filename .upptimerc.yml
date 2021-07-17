@@ -18,6 +18,8 @@ sites:
     url:  https://SecondLife-RDB-1.xiija.repl.co  
   - name: ChatLogr
     url:  https://http-resp-6-chatLogr-1.xiija.repl.co
+  - name: MBOT-4
+    url:  https://MBOT-4.tikihed.repl.co
    
   
   # - name: Google
